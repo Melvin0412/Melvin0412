@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melvin 
-- 👀 I’m interested in Data Analytics
+- 👀 I spealize in Data Analytics
 
 
 <!---
